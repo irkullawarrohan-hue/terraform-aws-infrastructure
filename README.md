@@ -61,13 +61,19 @@ Each step focuses on why Terraform behaves the way it does, not just running com
 
 ## Services Used:
 
-•	Terraform - Infrastructure as Code tool
-•	Amazon S3 - Store Terraform remote state
-•	Amazon DynamoDB - State locking and consistency
-•	Amazon VPC - Networking foundation
-•	Amazon EC2 - Compute resources
-•	Security Groups - Network access control
-•	AWS IAM - Permissions for Terraform operations
+•	**Terraform** - Infrastructure as Code tool
+
+•	**Amazon S3** - Store Terraform remote state
+
+•	**Amazon DynamoDB** - State locking and consistency
+
+•	**Amazon VPC** - Networking foundation
+
+•	**Amazon EC2** - Compute resources
+
+•	**Security Groups** - Network access control
+
+•	**AWS IAM** - Permissions for Terraform operations
 
 
 
