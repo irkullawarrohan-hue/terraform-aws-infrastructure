@@ -71,7 +71,7 @@ Each step focuses on why Terraform behaves the way it does, not just running com
 
 
 
-Architectural Diagram:
+## Architectural Diagram:
 
 <img width="940" height="487" alt="image" src="https://github.com/user-attachments/assets/a71e7e46-b4e1-4b24-a8b3-258430d7eada" />
 
